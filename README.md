@@ -1,6 +1,4 @@
 # prelimactivitynumber2-donotincludeanycode-mathewgabsam
-prelimactivitynumber2-donotincludeanycode-mathewgabsam created by GitHub Classroom
-# prelimactivitynumber2-donotincludeanycode-mathewgabsam
 Unfinished
 
 So I am finally finished with my main screen. 
